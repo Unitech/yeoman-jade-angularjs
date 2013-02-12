@@ -1,0 +1,10 @@
+{
+  "author": "",
+  "name": "Yeoman-angular-jade",
+  "version": "0.0.0",
+  "dependencies": {
+      "grunt-jade" : "*",
+      "findit" : "*"
+  },
+  "devDependencies": {}
+}
